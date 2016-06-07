@@ -26,6 +26,6 @@ The Most Influential People of My Life
 * Professor R. Ramsin (2016)
   - My most valuable teacher and professor in Sharif University of Technology.
   - Finally, I chose the hard (and sweet) way for life. I decided to become a truely literate software engineer and  try to take small steps towards a better world.
-  - His inspiring sentence: "No need to change the world. Create a circle around yourself and try to have a good impression on them by your knowledge.
+  - His inspiring sentence: "No need to change the world. Create a circle around yourself and try to have a good impression on them by your knowledge."
   - I am working hard...
 
